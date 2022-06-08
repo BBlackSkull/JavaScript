@@ -4,9 +4,9 @@ let timer = null;
 let timeBreak = null;
 let current = null;
 
-const bAdd = document.querySelector ("#bAdd");
-const itTask = document.querySelector ("#itTask");
-const form = document.querySelector ("#form");
+const bAdd = document.querySelector("#bAdd");
+const itTask = document.querySelector("#itTask");
+const form = document.querySelector("#form");
 const taskName = document.querySelector("#time #taskName");
 
 renderTime();
